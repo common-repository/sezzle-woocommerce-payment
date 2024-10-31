@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title> icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="80.5242928%" y1="85.6202908%" x2="45.7530144%" y2="37.6798239%" id="linearGradient-1">
+            <stop stop-color="#CE5DCB" offset="0%"></stop>
+            <stop stop-color="#C558CC" offset="20.95%"></stop>
+            <stop stop-color="#AC4ACF" offset="55.25%"></stop>
+            <stop stop-color="#8534D4" offset="98.45%"></stop>
+            <stop stop-color="#8333D4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-0.00122003011%" y1="49.9952968%" x2="99.9968433%" y2="49.9952968%" id="linearGradient-2">
+            <stop stop-color="#FF5667" offset="2.37%"></stop>
+            <stop stop-color="#FC8B82" offset="65.92%"></stop>
+            <stop stop-color="#FBA28E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-0.00260647448%" y1="50.000149%" x2="99.9997915%" y2="50.000149%" id="linearGradient-3">
+            <stop stop-color="#00B874" offset="0%"></stop>
+            <stop stop-color="#29D3A2" offset="51.26%"></stop>
+            <stop stop-color="#53DFB6" offset="68.17%"></stop>
+            <stop stop-color="#9FF4D9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-0.00281499244%" y1="49.9994784%" x2="99.9985404%" y2="49.9994784%" id="linearGradient-4">
+            <stop stop-color="#FCD77E" offset="0%"></stop>
+            <stop stop-color="#FEA500" offset="52.41%"></stop>
+            <stop stop-color="#FF5B00" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="256" height="256"></rect>
+        <g id="Group-2" transform="translate(32.000000, 10.000000)" fill-rule="nonzero">
+            <path d="M16.8,158.669683 C38.1411905,180.010873 72.7363836,180.010873 94.0775742,158.669683 L96.1230179,156.624239 C106.787701,145.959555 85.4465109,90.0113482 96.1230179,79.3466647 L16.8,158.669683 Z" id="Path" fill="url(#linearGradient-1)"></path>
+            <path d="M98.180285,77.2893975 L96.1348413,79.3348413 C85.4701577,89.9995249 106.799525,145.947732 96.1348413,156.612415 L175.457859,77.2893975 C164.781352,66.624714 150.806124,61.2923526 136.819072,61.2923526 C122.83202,61.2805488 108.844969,66.624714 98.180285,77.2893975" id="Path" fill="url(#linearGradient-2)"></path>
+            <path d="M16.8,81.3921084 C-4.54119054,102.733299 -4.54119054,137.328492 16.8,158.669683 L98.1921084,77.2775742 C119.533299,55.9363836 119.533299,21.3411905 98.1921084,0 L16.8,81.3921084 Z" id="SVGID_3_" fill="url(#linearGradient-3)"></path>
+            <path d="M94.0775742,158.669683 C72.7363836,180.010873 72.7363836,214.606066 94.0775742,235.947257 L175.469683,154.555148 C196.810873,133.213958 196.810873,98.6187647 175.469683,77.2775742 L94.0775742,158.669683 Z" id="Path" fill="url(#linearGradient-4)"></path>
+        </g>
+    </g>
+</svg>
